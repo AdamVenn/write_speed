@@ -1,0 +1,26 @@
+# Non-repo stuff
+Releases
+Testing
+
+#JUCE generated content
+Builds
+JuceLibraryCode
+
+#Doxygen
+Doxygen/doc
+Doxygen/resultPages
+
+#Windows Temp Cache Files
+[Tt]humbs.db
+
+#macOS Finder and whatnot
+.DS_Store
+*.DS_Store
+*.swp
+*~
+._*
+
+#VS Code on Linux
+.vscode
+*.code-workspace
+
